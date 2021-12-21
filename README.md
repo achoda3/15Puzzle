@@ -6,4 +6,6 @@ DFS - Depth First Search <br>
 Astar - Heuristic based Greedy Search <br>
 IDAstar - Iteratively Deepening Heuristic Based Greedy Search <br>
 To run the program simply use your preferred  C++ compiler to compile the program and then run with the arguments being the configuration of board wanted woth '0' indicating the empty space. <br>
-EG: ./a.out 5 2 4 8 10 3 11 14 6 0 9 12 13 1 15 7
+EG: <br>
+g++ BFS.cpp <br>
+./a.out 5 2 4 8 10 3 11 14 6 0 9 12 13 1 15 7
